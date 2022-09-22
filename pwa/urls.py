@@ -1,4 +1,4 @@
-from django.urls import re_path
+from djandddddddgo.urls import re_path
 
 from .views import manifest, service_worker, offline
 
